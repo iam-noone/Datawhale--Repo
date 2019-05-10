@@ -1,7 +1,7 @@
 # Datawhale--Repo
 
 ## Task1（2day）
-1.环境搭建
+1.环境搭建<br>
 1)Anaconda环境配置
 2)解释器
 2.python初体验
