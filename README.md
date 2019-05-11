@@ -1,6 +1,6 @@
 # Datawhale--Repo
 
-## Task1（2day）[md版本](https://github.com/Jing-Xiaolong/Datawhale--Repo/blob/master/Python%E5%9F%BA%E7%A1%80%20.md)、[ipynb版](https://github.com/Jing-Xiaolong/Datawhale--Repo/blob/master/Python%E5%9F%BA%E7%A1%80%20.ipynb)
+## Task1（2day）[md格式](https://github.com/Jing-Xiaolong/Datawhale--Repo/blob/master/Python%E5%9F%BA%E7%A1%80%20.md)、[ipynb格式](https://github.com/Jing-Xiaolong/Datawhale--Repo/blob/master/Python%E5%9F%BA%E7%A1%80%20.ipynb)
 1.环境搭建<br>
 - 1)Anaconda环境配置<br>
 - 2)解释器<br>
